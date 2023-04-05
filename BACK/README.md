@@ -42,11 +42,11 @@ Para contribuir en este proyecto, puedes hacer lo siguiente:
 ```bash
 BACK  ✨ :  agrega muddleware de administrador
 ^---^ ^--^   ^---------------------------------^
-│     |      │
-│     |      └--> # Descripción de los cambios
-│     |
-|     └--> # Emoji para identificar el tipo de commit. seguir la guía de [gitmoji](https://gitmoji.dev/)
-|      
+│     │      │
+│     │      └--> # Descripción de los cambios
+│     │
+│     └--> # Emoji para identificar el tipo de commit. seguir la guía de [gitmoji](https://gitmoji.dev/)
+│      
 └──------> # Información del microproyecto que es afectado por el commit.
 ```
 
