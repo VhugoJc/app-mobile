@@ -55,4 +55,4 @@ BACK  ✨ :  agrega muddleware de administrador
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
+Este proyecto está bajo una licencia de propiedad. Puedes consultar el archivo LICENSE para más detalles.
