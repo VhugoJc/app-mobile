@@ -39,15 +39,16 @@ Para contribuir en este proyecto, puedes hacer lo siguiente:
 3. Realizar pull antes de cualquier cambio.
 4. Realizar cambios pequeños.
 5. Nombrar el commit utilizando gitmoji con la siguiente nomenclatura:
-
+```bash
 BACK  ✨ :  agrega muddleware de administrador
 ^---^ ^--^   ^---------------------------------^
 │     |      │
 │     |      └--> # Descripción de los cambios
 │     |
-|	  └--> # Emoji para identificar el tipo de commit. seguir la guía de [gitmoji](https://gitmoji.dev/)
+|	 └--> # Emoji para identificar el tipo de commit. seguir la guía de [gitmoji](https://gitmoji.dev/)
 |      
 └──------> # Información del microproyecto que es afectado por el commit.
+```
 
 6. Hacer push de la rama al repositorio (`git push origin nombre-de-la-rama`)
 7. Crear un pull request en Github describiendo los cambios realizados y esperar a que sean revisados y aprobados.
