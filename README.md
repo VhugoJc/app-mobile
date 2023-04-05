@@ -23,7 +23,7 @@ Antes de comenzar a trabajar en este proyecto, es necesario tener instalado lo s
 1. Clonar este repositorio.
 3. Iniciar la base de datos (de ser necesario)
 2. Iniciar el frontend con el comando `npm dev` en el directorio `frontend/`.
-3. Iniciar el backend con el comando `npm start` en el directorio `backend/`.
+3. Iniciar el backend con el comando `npm dev` en el directorio `backend/`.
 
 ## Configuración
 
